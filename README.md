@@ -7,7 +7,11 @@ we get data about the world's cities, regions, and nations.We can Filter cities 
 we have
 <html>
   <h1> Homepage </h1>
+  <br>
   <h1> Registerpage </h1>
+  <b>
   <h1> Loginpage </h1>
+  <br>
   <h1> Bookingpage </h1>
+  <br>
 </html>

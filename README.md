@@ -9,7 +9,7 @@ we have
   <h1> Homepage </h1>
   <br>
   <h1> Registerpage </h1>
-  <b>
+  <br>
   <h1> Loginpage </h1>
   <br>
   <h1> Bookingpage </h1>
